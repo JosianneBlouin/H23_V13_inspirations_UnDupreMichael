@@ -12,4 +12,9 @@ L'oeuvre met en scène la nature qui co-habite avec la technologie sur plusieurs
 ![photo_moi](https://github.com/Honmasu/H23_V13_inspirations_UnDupreMichael/blob/main/BIAN/image/console_800_600%20Moyenne.jpeg) 
 ## installation
 
-## 
+## composante
+
+## opinion
+
+## référence
+* https://baronlanteigne.com/naturemorte7.html
