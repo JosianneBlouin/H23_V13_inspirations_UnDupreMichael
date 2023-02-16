@@ -18,8 +18,11 @@ L'oeuvre met en scène la nature qui co-habite avec la technologie sur plusieurs
 * fils de câble
 * plante décoratif
 * système de programmation (Ex: VScodesudio)
-* 
+* haut parleur
+
 ## opinion
+Lors de la contemplation de l'oeuvre je me suis sentis en paix avec l'oeuvre du au mouvement doux et fluide. Les couleurs du verts juste qu'aux cyan donnais de la vie a l'oeuvre. De plus j'ai apprécier l'attention au détail avec l'écran du milieux exposant ses composantes submerger de flore. En bref l'oeuvre était bien pensée, mais j'ai bien voulue retrouver plus de plante dans les fils pendants ou proche des écran sur le sol.
+![photo_moi]()
 
 ## référence
 * https://baronlanteigne.com/naturemorte7.html
