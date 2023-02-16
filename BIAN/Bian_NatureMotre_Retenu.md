@@ -13,7 +13,12 @@ L'oeuvre met en scène la nature qui co-habite avec la technologie sur plusieurs
 ## installation
 
 ## composante
-
+* écran
+* câble
+* fils de câble
+* plante décoratif
+* système de programmation (Ex: VScodesudio)
+* 
 ## opinion
 
 ## référence
