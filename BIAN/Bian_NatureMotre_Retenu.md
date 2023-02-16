@@ -9,7 +9,7 @@ L'oeuvre met en scène la nature qui co-habite avec la technologie sur plusieurs
 
 ![photo_moi](https://github.com/Honmasu/H23_V13_inspirations_UnDupreMichael/blob/main/BIAN/image/ecran_plancher%20Moyenne.jpeg) 
 ![photo_moi](https://github.com/Honmasu/H23_V13_inspirations_UnDupreMichael/blob/main/BIAN/image/ecran_principal%20Moyenne.jpeg) 
-![photo_moi](https://github.com/Honmasu/H23_V13_inspirations_UnDupreMichael/blob/main/BIAN/image/console_800_600%20Moyenne.jpeg align=center) 
+![photo_moi](https://github.com/Honmasu/H23_V13_inspirations_UnDupreMichael/blob/main/BIAN/image/console_800_600%20Moyenne.jpeg) 
 ## installation
 
 ## 
