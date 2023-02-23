@@ -27,6 +27,10 @@ Lors de la contemplation de l'oeuvre je me suis sentis en paix avec l'oeuvre du 
 
 ![photo_moi](https://github.com/Honmasu/H23_V13_inspirations_UnDupreMichael/blob/main/BIAN/image/ecran_plancher%20Moyenne.jpeg) 
 
+##plan
+
+![photo_moi]()
+
 ## référence
 * https://baronlanteigne.com/naturemorte7.html
 * https://montreal.mutek.org/fr/artistes/baron-lanteigne
