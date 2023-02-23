@@ -18,7 +18,7 @@ les annimations.
 
 le prototype démontre seulement le pillier du milieu (celui qui est intéractif) en fonctionnement, en un format plus petit.
 
-![phote]()
+![phote](https://github.com/Honmasu/H23_V13_inspirations_UnDupreMichael/blob/main/ProjectFinissant/image/image2.jpeg)
 
 # luma sol
 ## par Éloïse Gagné,Skayla Stimphil,Michaël Simard et Pénélope Morrisson
@@ -27,7 +27,7 @@ le prototype démontre seulement le pillier du milieu (celui qui est intéractif
 
 le prototype démontre le fonctionnement du vélo-stationnaire sur les lumières
 
-![phote]()
+![phote](https://github.com/Honmasu/H23_V13_inspirations_UnDupreMichael/blob/main/ProjectFinissant/image/image6.jpeg)
 
 ## boucler la boucle
 # par Sébastien Reilly,Sabrina Laforest,Alexandre Daniel et Maxime Des Lauriers
@@ -36,7 +36,7 @@ le prototype démontre le fonctionnement du vélo-stationnaire sur les lumières
 
 le prototype met en place les senseurs pour l'activation de la lumière et leur trajet
 
-![phote]()
+![phote](https://github.com/Honmasu/H23_V13_inspirations_UnDupreMichael/blob/main/ProjectFinissant/image/image3.jpeg)
 
 # zodie-gal
 ## par Abdanor Yara
