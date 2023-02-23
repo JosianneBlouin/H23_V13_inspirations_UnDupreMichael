@@ -1,9 +1,9 @@
-## echomarine
-# par Florence Lapierre,Natacha Abdallah,Tracy Gua et Maria Laura Coronel
+# echomarine
+## par Florence Lapierre,Natacha Abdallah,Tracy Gua et Maria Laura Coronel
 
 echomarine est relier avec le theme mycélium car tout deux son relier avec la nature et l'écosystème
 
-# prototype
+## prototype
 
 pour l'instant on retrouve dans le prototype trois projecteur sur le plafond pour pouvoir projetté les animations et on retrouve un ordinateur pour activé
 les annimations.
@@ -11,19 +11,19 @@ les annimations.
 ![phote]()
 
 
-## edria
-# par Elwin Durand,Loic Delorme,Dominic Roberts,Gabriel Leblanc,Meryem Berbiche et Jean-Christophe
+# edria
+## par Elwin Durand,Loic Delorme,Dominic Roberts,Gabriel Leblanc,Meryem Berbiche et Jean-Christophe
 
-# prototype
+## prototype
 
 le prototype démontre seulement le pillier du milieu (celui qui est intéractif) en fonctionnement, en un format plus petit.
 
 ![phote]()
 
-## luma sol
-# par Éloïse Gagné,Skayla Stimphil,Michaël Simard et Pénélope Morrisson
+# luma sol
+## par Éloïse Gagné,Skayla Stimphil,Michaël Simard et Pénélope Morrisson
 
-# prototype
+## prototype
 
 le prototype démontre le fonctionnement du vélo-stationnaire sur les lumières
 
@@ -38,9 +38,9 @@ le prototype met en place les senseurs pour l'activation de la lumière et leur 
 
 ![phote]()
 
-## zodie-gal
-# par Abdanor Yara
+# zodie-gal
+## par Abdanor Yara
 
-# prototype
+## prototype
 
 pas encore d'information
