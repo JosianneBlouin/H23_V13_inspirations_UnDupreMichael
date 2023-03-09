@@ -29,10 +29,10 @@ le prototype démontre le fonctionnement du vélo-stationnaire sur les lumières
 
 ![phote](https://github.com/Honmasu/H23_V13_inspirations_UnDupreMichael/blob/main/ProjectFinissant/image/image6.jpeg)
 
-## Boucler la boucle
-# par Sébastien Reilly,Sabrina Laforest,Alexandre Daniel et Maxime Des Lauriers
+# Boucler la boucle
+## par Sébastien Reilly,Sabrina Laforest,Alexandre Daniel et Maxime Des Lauriers
 
-# prototype
+## prototype
 
 le prototype met en place les senseurs pour l'activation de la lumière et leur trajet
 
