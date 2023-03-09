@@ -34,6 +34,9 @@ le prototype démontre seulement le pillier du milieu (celui qui est intéractif
 ![phote](https://github.com/Honmasu/H23_V13_inspirations_UnDupreMichael/blob/main/ProjectFinissant/image/image2.jpeg)
 (image du prototype Edira)
 
+## plan
+![phote]()
+
 # Luma sol
 ## 2023
 ## installation interactive
