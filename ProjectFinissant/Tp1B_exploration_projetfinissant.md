@@ -37,6 +37,16 @@ le prototype démontre seulement le pillier du milieu (celui qui est intéractif
 ## plan
 ![phote](https://github.com/Honmasu/H23_V13_inspirations_UnDupreMichael/blob/main/ProjectFinissant/image/edria_plan.png)
 
+# composante
+* poteaux
+* ordinateur
+* speaker
+* lumière
+* câbles
+* logiciel
+* détecteur
+
+
 # Luma sol
 ## 2023
 ## installation interactive
@@ -52,6 +62,15 @@ le prototype démontre le fonctionnement du vélo-stationnaire sur les lumières
 ## plan
 ![phote](https://github.com/Honmasu/H23_V13_inspirations_UnDupreMichael/blob/main/ProjectFinissant/image/luma-sol_plan.png)
 
+# composante
+* vélo
+* ordi
+* lumière
+* speaker
+* câble
+* logiciel
+* détecteur
+
 # Boucler la boucle
 ## 2023
 ## installation interactive
@@ -66,6 +85,14 @@ le prototype met en place les senseurs pour l'activation de la lumière et leur 
 
 ## plan
 ![phote](https://github.com/Honmasu/H23_V13_inspirations_UnDupreMichael/blob/main/ProjectFinissant/image/boucler-la-boucle_plan.png)
+
+# composante
+* speaker
+* lumière
+* capteur
+* câble
+* ordi
+* logiciel
 
 # Zodie-gal
 ## 2023
