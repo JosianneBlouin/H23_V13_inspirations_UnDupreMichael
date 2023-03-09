@@ -1,10 +1,10 @@
-#lieu de mise en exposition
+# lieu de mise en exposition
 Le grand et petit studio de montmorency
 
-#type d'exposition
+# type d'exposition
 temporaire
 
-#date de visite
+# date de visite
 23 février 2023
 
 # Echomarine
@@ -65,7 +65,7 @@ le prototype met en place les senseurs pour l'activation de la lumière et leur 
 (image du prototype Boucler la boucle)
 
 ## plan
-![phote]()
+![phote](https://github.com/Honmasu/H23_V13_inspirations_UnDupreMichael/blob/main/ProjectFinissant/image/boucler-la-boucle_plan.png)
 
 # Zodie-gal
 ## 2023
