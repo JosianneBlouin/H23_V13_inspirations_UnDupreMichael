@@ -30,6 +30,7 @@ les annimations.
 le prototype démontre seulement le pillier du milieu (celui qui est intéractif) en fonctionnement, en un format plus petit.
 
 ![phote](https://github.com/Honmasu/H23_V13_inspirations_UnDupreMichael/blob/main/ProjectFinissant/image/image2.jpeg)
+(image du prototype Edira)
 
 # Luma sol
 ## 2023
@@ -40,6 +41,7 @@ le prototype démontre seulement le pillier du milieu (celui qui est intéractif
 le prototype démontre le fonctionnement du vélo-stationnaire sur les lumières
 
 ![phote](https://github.com/Honmasu/H23_V13_inspirations_UnDupreMichael/blob/main/ProjectFinissant/image/image6.jpeg)
+(image du prototype Luma sol)
 
 # Boucler la boucle
 ## 2023
@@ -50,6 +52,7 @@ le prototype démontre le fonctionnement du vélo-stationnaire sur les lumières
 le prototype met en place les senseurs pour l'activation de la lumière et leur trajet
 
 ![phote](https://github.com/Honmasu/H23_V13_inspirations_UnDupreMichael/blob/main/ProjectFinissant/image/image3.jpeg)
+(image du prototype Boucler la boucle)
 
 # Zodie-gal
 ## 2023
