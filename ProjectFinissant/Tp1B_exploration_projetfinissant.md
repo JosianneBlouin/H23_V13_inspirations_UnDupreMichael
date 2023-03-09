@@ -9,6 +9,7 @@ temporaire
 
 # Echomarine
 ## 2023
+## installation interactive
 ## par Florence Lapierre,Natacha Abdallah,Tracy Gua et Maria Laura Coronel
 
 echomarine est relier avec le theme mycélium car tout deux son relier avec la nature et l'écosystème
@@ -23,6 +24,7 @@ les annimations.
 
 # Edria
 ## 2023
+## installation interactive
 ## par Elwin Durand,Loic Delorme,Dominic Roberts,Gabriel Leblanc,Meryem Berbiche et Jean-Christophe
 
 ## prototype
@@ -34,6 +36,7 @@ le prototype démontre seulement le pillier du milieu (celui qui est intéractif
 
 # Luma sol
 ## 2023
+## installation interactive
 ## par Éloïse Gagné,Skayla Stimphil,Michaël Simard et Pénélope Morrisson
 
 ## prototype
@@ -45,6 +48,7 @@ le prototype démontre le fonctionnement du vélo-stationnaire sur les lumières
 
 # Boucler la boucle
 ## 2023
+## installation interactive
 ## par Sébastien Reilly,Sabrina Laforest,Alexandre Daniel et Maxime Des Lauriers
 
 ## prototype
@@ -56,6 +60,7 @@ le prototype met en place les senseurs pour l'activation de la lumière et leur 
 
 # Zodie-gal
 ## 2023
+## installation interactive
 ## par Abdanor Yara
 
 ## prototype
