@@ -50,7 +50,7 @@ le prototype démontre le fonctionnement du vélo-stationnaire sur les lumières
 (image du prototype Luma sol)
 
 ## plan
-![phote]()
+![phote](https://github.com/Honmasu/H23_V13_inspirations_UnDupreMichael/blob/main/ProjectFinissant/image/luma-sol_plan.png)
 
 # Boucler la boucle
 ## 2023
