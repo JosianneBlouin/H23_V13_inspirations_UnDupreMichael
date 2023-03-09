@@ -49,6 +49,9 @@ le prototype démontre le fonctionnement du vélo-stationnaire sur les lumières
 ![phote](https://github.com/Honmasu/H23_V13_inspirations_UnDupreMichael/blob/main/ProjectFinissant/image/image6.jpeg)
 (image du prototype Luma sol)
 
+## plan
+![phote]()
+
 # Boucler la boucle
 ## 2023
 ## installation interactive
@@ -60,6 +63,9 @@ le prototype met en place les senseurs pour l'activation de la lumière et leur 
 
 ![phote](https://github.com/Honmasu/H23_V13_inspirations_UnDupreMichael/blob/main/ProjectFinissant/image/image3.jpeg)
 (image du prototype Boucler la boucle)
+
+## plan
+![phote]()
 
 # Zodie-gal
 ## 2023
