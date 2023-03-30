@@ -84,7 +84,7 @@ le prototype met en place les senseurs pour l'activation de la lumière et leur 
 (image du prototype Boucler la boucle)
 
 ## plan
-![phote](https://github.com/Honmasu/H23_V13_inspirations_UnDupreMichael/blob/main/ProjectFinissant/image/boucler-la-boucle_plan.png)
+![phote](https://github.com/Honmasu/H23_V13_inspirations_UnDupreMichael/blob/main/ProjectFinissant/image/boucler_la_boucle%20Moyenne.jpeg)
 
 # composante
 * speaker
