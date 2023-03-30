@@ -56,7 +56,7 @@ le prototype démontre seulement le pillier du milieu (celui qui est intéractif
 
 le prototype démontre le fonctionnement du vélo-stationnaire sur les lumières
 
-![phote]()
+![phote](https://github.com/Honmasu/H23_V13_inspirations_UnDupreMichael/blob/main/ProjectFinissant/image/edria%20Moyenne.jpeg)
 (image du prototype Luma sol)
 
 ## plan
