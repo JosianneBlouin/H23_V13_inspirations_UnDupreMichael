@@ -31,7 +31,7 @@ les annimations.
 
 le prototype démontre seulement le pillier du milieu (celui qui est intéractif) en fonctionnement, en un format plus petit.
 
-![phote]()
+![phote](https://github.com/Honmasu/H23_V13_inspirations_UnDupreMichael/blob/main/ProjectFinissant/image/edria%20Moyenne.jpeg)
 (image du prototype Edira)
 
 ## plan
