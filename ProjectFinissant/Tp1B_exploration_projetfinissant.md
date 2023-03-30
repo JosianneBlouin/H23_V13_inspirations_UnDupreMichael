@@ -31,7 +31,7 @@ les annimations.
 
 le prototype démontre seulement le pillier du milieu (celui qui est intéractif) en fonctionnement, en un format plus petit.
 
-![phote](https://github.com/Honmasu/H23_V13_inspirations_UnDupreMichael/blob/main/ProjectFinissant/image/image2.jpeg)
+![phote]()
 (image du prototype Edira)
 
 ## plan
@@ -56,7 +56,7 @@ le prototype démontre seulement le pillier du milieu (celui qui est intéractif
 
 le prototype démontre le fonctionnement du vélo-stationnaire sur les lumières
 
-![phote](https://github.com/Honmasu/H23_V13_inspirations_UnDupreMichael/blob/main/ProjectFinissant/image/image6.jpeg)
+![phote]()
 (image du prototype Luma sol)
 
 ## plan
@@ -80,11 +80,11 @@ le prototype démontre le fonctionnement du vélo-stationnaire sur les lumières
 
 le prototype met en place les senseurs pour l'activation de la lumière et leur trajet
 
-![phote](https://github.com/Honmasu/H23_V13_inspirations_UnDupreMichael/blob/main/ProjectFinissant/image/image3.jpeg)
+![phote](https://github.com/Honmasu/H23_V13_inspirations_UnDupreMichael/blob/main/ProjectFinissant/image/boucler_la_boucle%20Moyenne.jpeg)
 (image du prototype Boucler la boucle)
 
 ## plan
-![phote](https://github.com/Honmasu/H23_V13_inspirations_UnDupreMichael/blob/main/ProjectFinissant/image/boucler_la_boucle%20Moyenne.jpeg)
+![phote]()
 
 # composante
 * speaker
