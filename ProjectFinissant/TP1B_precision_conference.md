@@ -1,8 +1,8 @@
-#Précisions sur le compte-rendu et appréciation des conférences
+# Précisions sur le compte-rendu et appréciation des conférences
 
-##Conférence 1 - 30 mars
+## Conférence 1 - 30 mars
 
-###Yanik Daunais, Directeur général et producteur, Halo Création
+### Yanik Daunais, Directeur général et producteur, Halo Création
 
 Le travail d’une firme multimédia dans le monde muséal : possibilités du multimédia pour le domaine muséal, les particularités du croisement entre ces deux domaines et le travail des technicien.ne.s en intégration multimédia dans ce contexte
 
