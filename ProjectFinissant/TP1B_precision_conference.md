@@ -8,7 +8,7 @@ Le travail d’une firme multimédia dans le monde muséal : possibilités du mu
 
 ## Conférence 2 - 28 mars
 
-# Karine Charbonneau, cheffe des expositions et registraire, Studio Antimodular (Rafael Lozano-Hemmer)
+### Karine Charbonneau, cheffe des expositions et registraire, Studio Antimodular (Rafael Lozano-Hemmer)
 
 La logistique de gestion de collection et de mise en exposition de la production d'un artiste en art numérique
 
