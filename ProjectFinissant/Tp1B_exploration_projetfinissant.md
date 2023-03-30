@@ -19,7 +19,7 @@ echomarine est relier avec le theme mycélium car tout deux son relier avec la n
 pour l'instant on retrouve dans le prototype trois projecteur sur le plafond pour pouvoir projetté les animations et on retrouve un ordinateur pour activé
 les annimations.
 
-![phote]()
+![phote](https://github.com/Honmasu/H23_V13_inspirations_UnDupreMichael/blob/main/ProjectFinissant/image/echomarine_img.jpeg)
 
 
 # Edria
